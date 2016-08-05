@@ -1,0 +1,63 @@
+_repo: Gargantua-and-Pantagruel-Illustrated-Book-2_8167
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Doré, Gustave
+    aliases:
+    - Dore, Gustave
+    - Doré, Louis Christophe Paul Gustave
+    - Dorè, Gustave
+    - Doré, Louis Auguste Gustave
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '1896'
+    url: http://www.gutenberg.org/2009/agents/1896
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Doré
+  translators:
+  - agent_name: Motteux, Peter Anthony
+    aliases:
+    - Motteux, Pierre Antoine
+    - Lemotteux, Pierre Antoine
+    - Motteux, P. A. (Peter Anthony)
+    birthdate: &id001 1660
+    deathdate: 1718
+    gutenberg_agent_id: '4933'
+    url: http://www.gutenberg.org/2009/agents/4933
+  - agent_name: Urquhart, Thomas, Sir
+    aliases:
+    - Urchard, Thomas, Sir
+    - Urwhart, Thomas, Sir
+    birthdate: 1611
+    deathdate: *id001
+    gutenberg_agent_id: '4932'
+    url: http://www.gutenberg.org/2009/agents/4932
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Urquhart
+creator:
+  author:
+    agent_name: Rabelais, François
+    aliases:
+    - Rabelais, Francois
+    - Rabelais, Francis
+    - Nasier, Alcofribas
+    - Alcofrybas, Maistre
+    gutenberg_agent_id: '551'
+    url: http://www.gutenberg.org/2009/agents/551
+    wikipedia: http://en.wikipedia.org/wiki/Fran%C3%A7ois_Rabelais
+description: ''
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2004-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8167'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction, French -- Translations into English'
+- !lcsh 'Giants -- Fiction'
+- !lcsh 'Gargantua (Legendary character) -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Gargantua and Pantagruel, Illustrated, Book 2
+url: http://www.gutenberg.org/ebooks/8167
